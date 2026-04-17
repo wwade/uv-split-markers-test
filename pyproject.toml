@@ -1,6 +1,6 @@
 [project]
 name = "uv-split-markers-test"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = [
     { name = "Wade", email = "wade@example.com" }
